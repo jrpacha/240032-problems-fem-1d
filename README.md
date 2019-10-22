@@ -1,12 +1,15 @@
 # FEM 1D: 
-## Some examples of problems corresponding to the FEM in 1D
+## Some examples corresponding to the FEM in 1D
 
-1. Final Exam Q1-2018-19. Exercise 1 (perm a).
-1. Midterm Exam Q1-2018-19. Exercise 1 (perm a).
+In FEM1D_Examples.pdf you'll find the following exercises realted
+with the Finite Element Method in 1 dimension:
+
+1. Final Exam Q1-2018-19. Exercise 1 (perm. a).
+1. Midterm Exam Q1-2018-19. Exercise 1 (perm. a).
 1. From our class problem's list.
     1. Exercise 10.
     1. Exercise 11.
-    1. Exercise 12.
+    1. Exercise 12 (Matlab code in file prob12.m)
 
 All exercises are completely solved  and explained.
 

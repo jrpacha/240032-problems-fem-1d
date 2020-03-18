@@ -1,4 +1,4 @@
-# 240032 Problems FEM 1D: 
+# 240032 Problems FEM 1D 
 ## Some examples corresponding to the FEM in 1D
 
 In FEM1D_Examples.pdf you'll find the following exercises realted

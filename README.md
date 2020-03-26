@@ -12,7 +12,7 @@ with the Finite Element Method in 1 dimension:
    <t>EX_PARCIAL_Q1_2019_20_Problema_1c.pdf</t>
 1. Midterm Exam Q2-2018-19. Exercise 3 (perm. a). In files
    1. <t>EX_PARCIAL_Q2_2018_19_Problema_3a.pdf</t> (statement only).
-   1. <t>EX_PARCIAL_Q1_2018_19_Problema_3a.m</t> (Matlab source code fori its 
+   1. <t>EX_PARCIAL_Q1_2018_19_Problema_3a.m</t> (Matlab source code for its 
       solution).
 
 1. From our class problem's list.

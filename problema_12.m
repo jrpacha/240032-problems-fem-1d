@@ -40,7 +40,7 @@ P=4.65;
 syms x;
 f=@(t) 53.9*(1.0+t/2.0);
 F3=int(f(x),0,1.2)-F1-F2-F4;
-F3=eval(F3);
+%F3=eval(F3);
 clear x;
 F=[F1;F2;F3;F4]
 

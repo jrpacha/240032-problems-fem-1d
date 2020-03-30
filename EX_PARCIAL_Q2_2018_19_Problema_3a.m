@@ -78,7 +78,7 @@ meanValueOfU = sum(u)/numNod;
 idxs = find(abs(u - meanValueOfU) < 0.1);
 numNodsIdxs =length(idxs);
    
-fprintf('K50,50) = %.5e\n',K(50,50));
+fprintf('K(50,50) = %.5e\n',K(50,50));
 fprintf('Hint. K(20,21) = %.5e\n',K(20,21));
 fprintf('<u> = %.5e\n',meanValueOfU);
 fprintf('  N = %d\n',numNodsIdxs);

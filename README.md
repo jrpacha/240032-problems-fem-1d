@@ -4,6 +4,8 @@
 Here you'll find the following exercises realted
 with the Finite Element Method in 1 dimension:
 
+1. Midterm Exam Q1-2016-17. Exercise 3. In file
+   <t>EX_PARCIAL_Q1_2016_17_Problema_3.pdf</t>
 1. Final Exam Q1-2018-19. Exercise 1 (perm. a). In file
    <t>EX_FINAL_Q1_2018_19_Problema_1a.pdf</t>
 1. Midterm Exam Q1-2018-19. Exercise 1 (perm. a). In file
@@ -18,6 +20,10 @@ with the Finite Element Method in 1 dimension:
       solution).
 
 1. From our class problem's list.
+    1. Exercise 1. In file <t>problema_1.pdf</t>
+    1. Exercise 2. In file <t>problema_2.pdf</t>
+    1. Exercise 3. In file <t>problema_3.pdf</t>
+    1. Exercise 4. In file <t>problema_4.pdf</t>
     1. Exercise 10. In files
        * <t>problema_10.pdf</t>
        * <t>problema_10.mlx</t> (Matlab Live Script). Solution using Matlab symbolic toolbox.

@@ -6,6 +6,14 @@ with the Finite Element Method in 1 dimension:
 
 1. Midterm Exam Q1-2016-17. Exercise 3. In file
    <t>EX_PARCIAL_Q1_2016_17_Problema_3.pdf</t>
+1. Midterm Exam Q2-2016-17. Exercise 3. In file
+   <t>EX_PARCIAL_Q2_2016_17_Problema_3.pdf</t>
+1. Final Exam Q1-2017-16. Exercise 5. In file
+   <t>EX_FINAL_Q1_2017_18_Problema_5.pdf</t>   
+1. Final Exam Q2-2017-18. Exercise 1. in file
+   <t>EX_FINAL_Q2_2017-18_Problema_1.pdf</t>
+1. Resit Exam 2017-18. Exercise 1. In file
+   <t>EX_REAVA_2017_18_Problema_1.pdf</t>   
 1. Final Exam Q1-2018-19. Exercise 1 (perm. a). In file
    <t>EX_FINAL_Q1_2018_19_Problema_1a.pdf</t>
 1. Midterm Exam Q1-2018-19. Exercise 1 (perm. a). In file
@@ -18,8 +26,10 @@ with the Finite Element Method in 1 dimension:
    1. <t>EX_PARCIAL_Q2_2018_19_Problema_3a.pdf</t> (statement only).
    1. <t>EX_PARCIAL_Q1_2018_19_Problema_3a.m</t> (Matlab source code for its 
       solution).
+1. Final Exam Q1 2020-21. Exercise 1. In file
+   <t>EX_FINAL_Q1_2020_21_Problema_1.pdf</t>      
 
-1. From our class problem's list.
+1. From our list.
     1. Exercise 1. In file <t>problema_1.pdf</t>
     1. Exercise 2. In file <t>problema_2.pdf</t>
     1. Exercise 3. In file <t>problema_3.pdf</t>

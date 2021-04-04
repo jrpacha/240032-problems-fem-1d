@@ -20,8 +20,10 @@ with the Finite Element Method in 1 dimension:
    <t>EX_PARCIAL_Q1_2018_19_Problema_1a.pdf</t>
 1. Midterm Exam Q1-2019-20. Exercise 1 (perm. c). In files
    * <t>EX_PARCIAL_Q1_2019_20_Problema_1c.pdf</t>
-   * <t>EX_PARCIAL_Q1_2019_20_Problema_1c.mlx</t> (Live Script). Solution using Matlab
-       symbolic toolbox
+   * <t>EX_PARCIAL_Q1_2019_20_Problema_1c.mlx</t> (Live Script). Solution with Matlab
+       symbolic toolbox. **Warning:** do not try to use symbolic integration or, in 
+       general, Matlab's symbolic toolbox, when the number of elements is large. In 
+       such cases, we should use the methods outlined in the practices.
 1. Midterm Exam Q2-2018-19. Exercise 3 (perm. a). In files
    1. <t>EX_PARCIAL_Q2_2018_19_Problema_3a.pdf</t> (statement only).
    1. <t>EX_PARCIAL_Q1_2018_19_Problema_3a.m</t> (Matlab source code for its 

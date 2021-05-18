@@ -46,7 +46,7 @@ with the Finite Element Method in 1 dimension:
 
 Exercises are completely solved  and explained.
 
-**Disclaimer:** this stuff is provided 'as is'. Please, chek it (just in case 
+**Disclaimer:** this stuff is provided 'as is'. Please, check it (just in case 
 you find it useful), but it's worth you try to write all the programs and do the
 exercises on your own.
 

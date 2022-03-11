@@ -44,6 +44,12 @@ with the Finite Element Method in 1 dimension:
        * <t>problema_12.pdf</t>. 
        * <t>problema_12.m</t> (Matlab script). Solution using Matlab symbolic toolbox.
 
+1. Examples
+    1. Constant section column. In file
+    <t>FEM1D-Ex-1_Constant_Section_Column.pdf</tt>
+    1. Concrete pyramidal column. In file
+    <t>FEM1D-Ex-2_Concrete_Pyramidal_Column.pdf</tt>
+
 Exercises are completely solved  and explained.
 
 **Disclaimer:** this stuff is provided 'as is'. Please, check it (just in case 

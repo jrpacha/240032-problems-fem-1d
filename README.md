@@ -34,6 +34,8 @@ with the Finite Element Method in 1 dimension:
    <t>EX_FINAL_Q1_2020_21_Problema_1.pdf</t>      
 1. Final Exam Q2 2020-21. Exercise 1. In file
    <t>EX_FINAL_Q2_2020-21_Problema_1.pdf</t>
+1. Midterm Exem Q1-2021-21. Exercise 1. In file
+   <t>EX_PARCIAL_Q1_2021_22_Problema_1.pdf</t> 
 1. Final Exam Q1 2021-22. Exercise 1. In file
    <t>EX_FINAL_Q1_2021_22_Problema_1.pdf</t>
 

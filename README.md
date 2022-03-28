@@ -18,6 +18,12 @@ with the Finite Element Method in 1 dimension:
    <t>EX_FINAL_Q1_2018_19_Problema_1a.pdf</t>
 1. Midterm Exam Q1-2018-19. Exercise 1 (perm. a). In file
    <t>EX_PARCIAL_Q1_2018_19_Problema_1a.pdf</t>
+1. Midterm Exem Q2-2018-19. Exercise 1 (perm. a). In file
+   <t>EX_PARCIAL_Q2_2018_19_Problema_1a.pdf</t>
+1. Midterm Exam Q2-2018-19. Exercise 3 (perm. a). In files
+   1. <t>EX_PARCIAL_Q2_2018_19_Problema_3a.pdf</t> (statement only).
+   1. <t>EX_PARCIAL_Q1_2018_19_Problema_3a.m</t> (Matlab source code for its 
+      solution).
 1. Midterm Exam Q1-2019-20. Exercise 1 (perm. c). In files
    * <t>EX_PARCIAL_Q1_2019_20_Problema_1c.pdf</t>
    * <t>EX_PARCIAL_Q1_2019_20_Problema_1c.mlx</t> (Live Script). Solution with Matlab
@@ -26,15 +32,11 @@ with the Finite Element Method in 1 dimension:
        such cases, we should use the methods outlined in the practices.
 1. Final Exam Q1-2020-21. Exercise 1. In file
    <t>EX_FINAL_Q1_2021_22_Problema_1.pdf</t> 
-1. Midterm Exam Q2-2018-19. Exercise 3 (perm. a). In files
-   1. <t>EX_PARCIAL_Q2_2018_19_Problema_3a.pdf</t> (statement only).
-   1. <t>EX_PARCIAL_Q1_2018_19_Problema_3a.m</t> (Matlab source code for its 
-      solution).
 1. Final Exam Q1 2020-21. Exercise 1. In file
    <t>EX_FINAL_Q1_2020_21_Problema_1.pdf</t>      
 1. Final Exam Q2 2020-21. Exercise 1. In file
    <t>EX_FINAL_Q2_2020-21_Problema_1.pdf</t>
-1. Midterm Exem Q1-2021-21. Exercise 1. In file
+1. Midterm Exem Q1-2021-22. Exercise 1. In file
    <t>EX_PARCIAL_Q1_2021_22_Problema_1.pdf</t> 
 1. Final Exam Q1 2021-22. Exercise 1. In file
    <t>EX_FINAL_Q1_2021_22_Problema_1.pdf</t>
